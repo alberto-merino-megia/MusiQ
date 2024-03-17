@@ -7,8 +7,8 @@ MusiQ es una aplicación de música que utiliza algoritmos de aprendizaje autom�
  - **Creación de listas de reproducción:** La aplicación puede crear listas de reproducción personalizadas para el usuario, ya sea para una ocasión especial, un estado de ánimo específico, un género musical o un artista concreto.
  - **Integración con redes sociales:** La aplicación permite al usuario compartir sus canciones, listas de reproducción y opiniones musicales con sus amigos y seguidores en las redes sociales, así como descubrir nuevas canciones y artistas a través de las recomendaciones de otros usuarios.
  - **Modo offline:** La aplicación permite al usuario descargar canciones y listas de reproducción para escucharlas sin conexión a internet, así como ajustar la calidad del sonido según su preferencia y el espacio disponible en su dispositivo.
- - **Aplicación intuitiva:** La aplicación debe ser intuitiva y fácil de usar, permitiendo a los usuarios acceder fácilmente a las funcionalidades de reconocimiento de estado de ánimo, recomendación de canciones y creación de listas de reproducción. (Aportación de Carlos Neila cneila)
- - **Listas musicales cooperativas:** en base a la integración de redes sociales, la aplicación ofrecerá también la posibilidad a los usuarios de cooperar con amigos y hacer listas musicales conjuntas. (Aportación de Mario Worner Marioworner2000)
+ - **Aplicación intuitiva:** La aplicación debe ser intuitiva y fácil de usar, permitiendo a los usuarios acceder fácilmente a las funcionalidades de reconocimiento de estado de ánimo, recomendación de canciones y creación de listas de reproducción. (Aportación de Carlos Neila [cneila](https://github.com/cneila))
+ - **Listas musicales cooperativas:** en base a la integración de redes sociales, la aplicación ofrecerá también la posibilidad a los usuarios de cooperar con amigos y hacer listas musicales conjuntas. (Aportación de Mario Worner [Marioworner2000](https://github.com/Marioworner2000))
 
 **¿Por qué MusiQ?**
 
